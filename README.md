@@ -60,11 +60,11 @@
 ### 📌 Latest Active Repositories
 
 <!-- DYNAMIC_PROJECTS:START -->
-- [sutavrario pushed MY-PORTFOLIO](https://github.com/sutavrario/MY-PORTFOLIO/compare/56f9de97ba...4847d3ef6e)
-- [sutavrario pushed MY-PORTFOLIO](https://github.com/sutavrario/MY-PORTFOLIO/compare/b43cbf5720...56f9de97ba)
-- [sutavrario pushed MY-PORTFOLIO](https://github.com/sutavrario/MY-PORTFOLIO/compare/f8256a5ff3...b43cbf5720)
-- [sutavrario pushed MY-PORTFOLIO](https://github.com/sutavrario/MY-PORTFOLIO/compare/22ebf6b569...f8256a5ff3)
-- [sutavrario pushed MY-PORTFOLIO](https://github.com/sutavrario/MY-PORTFOLIO/compare/e95db7d0b2...22ebf6b569)
+- [sutavrario pushed Green_Coal](https://github.com/sutavrario/Green_Coal/compare/5ec46c0b7f...da1a1633ca)
+- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/5ee8ecc6e5...9f30d6857e)
+- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/20e5b701f9...5ee8ecc6e5)
+- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/ca19651a3c...f0cb1627ab)
+- [sutavrario pushed sutavrario](https://github.com/sutavrario/sutavrario/compare/0fd7d0e145...ca19651a3c)
 <!-- DYNAMIC_PROJECTS:END -->
 
 ---
