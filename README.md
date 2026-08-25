@@ -61,7 +61,6 @@
 
 <!-- DYNAMIC_PROJECTS:START -->
 - [sutavrario starred superplanehq/superplane](https://github.com/superplanehq/superplane)
-- [sutavrario pushed Green_Coal](https://github.com/sutavrario/Green_Coal/compare/5ec46c0b7f...da1a1633ca)
 <!-- DYNAMIC_PROJECTS:END -->
 
 ---
