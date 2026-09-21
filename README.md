@@ -60,11 +60,11 @@
 ### 📌 Latest Active Repositories
 
 <!-- DYNAMIC_PROJECTS:START -->
+- [sutavrario pushed iedc-website](https://github.com/IEDC-ECE/iedc-website/compare/46fea35c8f...e38e8dd1d4)
+- [sutavrario pushed iedc-website](https://github.com/IEDC-ECE/iedc-website/compare/2c3c5bbbfe...46fea35c8f)
 - [sutavrario pushed iedc-website](https://github.com/IEDC-ECE/iedc-website/compare/ae3724fbe8...2c3c5bbbfe)
 - [sutavrario pushed iedc-website](https://github.com/IEDC-ECE/iedc-website/compare/3eeac275eb...ae3724fbe8)
 - [sutavrario added sutavrario to IEDC-ECE/iedc-website](https://github.com/IEDC-ECE/iedc-website)
-- [sutavrario pushed Green_Coal](https://github.com/sutavrario/Green_Coal/compare/4d20a1d145...ec7cbb3da4)
-- [sutavrario pushed Green_Coal](https://github.com/sutavrario/Green_Coal/compare/93ce21b475...4d20a1d145)
 <!-- DYNAMIC_PROJECTS:END -->
 
 ---
