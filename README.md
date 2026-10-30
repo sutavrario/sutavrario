@@ -60,8 +60,7 @@
 ### 📌 Latest Active Repositories
 
 <!-- DYNAMIC_PROJECTS:START -->
-- [sutavrario pushed iedc-website](https://github.com/IEDC-ECE/iedc-website/compare/46fea35c8f...e38e8dd1d4)
-- [sutavrario pushed iedc-website](https://github.com/IEDC-ECE/iedc-website/compare/2c3c5bbbfe...46fea35c8f)
+- [sutavrario created a branch](https://github.com/sutavrario/os_assignment_job_scheduler/compare/0000000000...81e4f68920)
 <!-- DYNAMIC_PROJECTS:END -->
 
 ---
