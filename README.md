@@ -60,6 +60,8 @@
 ### 📌 Latest Active Repositories
 
 <!-- DYNAMIC_PROJECTS:START -->
+- [sutavrario pushed Smart_Delivery_ETA_Predictor](https://github.com/sutavrario/Smart_Delivery_ETA_Predictor/compare/581223e1eb...24cf5c72c7)
+- [sutavrario created a branch](https://github.com/sutavrario/Smart_Delivery_ETA_Predictor/compare/0000000000...581223e1eb)
 - [sutavrario created a branch](https://github.com/sutavrario/os_assignment_job_scheduler/compare/0000000000...81e4f68920)
 <!-- DYNAMIC_PROJECTS:END -->
 
